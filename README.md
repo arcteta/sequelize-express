@@ -1,5 +1,5 @@
 # sequelize-express
 
 ### purpose
----mini project to master sequelize and express
+>mini project to master sequelize and express
 ###
