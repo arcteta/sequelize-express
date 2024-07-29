@@ -1,5 +1,5 @@
 # sequelize-express
 
-'''json
-mini project to master sequelize and express
-'''
+### purpose
+---mini project to master sequelize and express
+###
